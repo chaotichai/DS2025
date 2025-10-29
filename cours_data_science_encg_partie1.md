@@ -1,8 +1,11 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
-<img src="me but professional.jpg" style="height:464px;margin-right:432px"/>
+
 # Chaïmaâ ABDIDA
+
+<img src="me but professional.jpg" style="height:464px;margin-right:432px"/>
+
 ---
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
